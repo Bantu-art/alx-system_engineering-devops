@@ -1,3 +1,3 @@
 #!/bin/bash
-export PATH=-type d | wc -l
+export $PATH=-type d | wc -l
 
